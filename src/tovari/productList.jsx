@@ -8,11 +8,11 @@ function ProductList(){
     ]
     return(
         <div className="center">
-        <ul>
+        
             {productItem.map(item =>
             <ProductItem text={item.t} url={item.url} />
             )}
-        </ul>
+        
         </div>
         
     )
