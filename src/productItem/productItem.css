@@ -1,0 +1,18 @@
+.form-control {
+    width: 50vw;
+    padding: 20px 70px;
+
+}
+.but {
+    font-family: monospace;
+    color: #fff;
+    background: linear-gradient( to left,#12c2e9, #c471ed, #f64f59 );
+    text-decoration: none;
+    padding: 20px 70px;
+    border-radius: 10px;
+    background-size: 200%;
+    transition: .5s;
+}
+.but:hover{
+    background-position: right;
+}

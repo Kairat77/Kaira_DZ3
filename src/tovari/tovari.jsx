@@ -1,9 +1,10 @@
-import ProductList from "./productList"
-
+import ProductList from "../productList/productList"
+import ProductItem from "../productItem/productItem";
 function Tovari() {
     return(
         <>
-        <h2 data-text="Продукты"> Продукты </h2>
+        <ProductItem/>
+        <h2> Cars </h2>
         <ProductList/>
         </>
     )
