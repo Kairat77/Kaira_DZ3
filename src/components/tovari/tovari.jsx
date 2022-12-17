@@ -1,4 +1,4 @@
-import ProductList from "../productList/productList"
+import ProductList from "../productList/productList";
 
 function Tovari() {
     return(

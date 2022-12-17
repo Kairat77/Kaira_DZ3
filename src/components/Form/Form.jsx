@@ -7,7 +7,7 @@ const formSubmit = (e) => {
     console.log(e.target.value);
   }
 
-function ProductItem(){
+function Form(){
     return(
         <>
         <div className="cont">
@@ -21,4 +21,4 @@ function ProductItem(){
     )
 }
 
-export default ProductItem;
+export default Form;

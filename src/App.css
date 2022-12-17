@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(./image/kosmos.jpeg) no-repeat;
+    background: url(./components/image/kosmos.jpeg) no-repeat;
     background-size: cover;
 }
 a {
